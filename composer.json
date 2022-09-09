@@ -1,5 +1,5 @@
 {
-  "name": "business-ru/open-api-sdk-php",
+  "name": "dmifedorenko/open-api-sdk-php",
   "version": "1.0.8",
   "description": "SDK для работы с Open API",
   "type": "library",
