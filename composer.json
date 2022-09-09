@@ -1,6 +1,6 @@
 {
   "name": "dmifedorenko/open-api-sdk-php",
-  "version": "1.0.8.3",
+  "version": "1.0.8.4",
   "description": "SDK для работы с Open API",
   "type": "library",
   "license": "proprietary",
@@ -16,7 +16,7 @@
     "ext-json": "*",
     "symfony/http-client": "^6.1",
     "psr/simple-cache": "^1.0|^2.0|^3.0",
-    "psr/log": "^3.0",
+    "psr/log": "^1.0|^2.0|^3.0",
     "monolog/monolog": "^3.2"
   },
   "autoload": {
