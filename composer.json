@@ -1,6 +1,6 @@
 {
   "name": "dmifedorenko/open-api-sdk-php",
-  "version": "1.0.8",
+  "version": "1.0.8.1",
   "description": "SDK для работы с Open API",
   "type": "library",
   "license": "proprietary",
